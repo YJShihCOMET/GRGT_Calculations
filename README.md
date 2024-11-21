@@ -1,5 +1,5 @@
 # GRGT_Calculations
-> <font size=5> Applied GRGT to Margules model on 3D Ising model  </font> 
+> <font size=5> Applying GRGT to Margules model on 3D Ising model  </font> 
 
 # Development Environment  
 
